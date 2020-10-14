@@ -9,7 +9,7 @@ spec:
   project: bgdk
   source:
     path: bgdk/overlays/cluster2
-    repoURL: https://github.com/christianh814/gitops-examples
+    repoURL: https://github.com/luigiaparicio/gitops-examples
     targetRevision: master
   syncPolicy:
     automated:
