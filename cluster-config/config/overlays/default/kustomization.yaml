@@ -4,6 +4,6 @@ kind: Kustomization
 namespace: argocd
 
 bases:
-- github.com/christianh814/openshift-cluster-config/cluster-config/config/overlays/default
+- github.com/luigiaparicio/openshift-cluster-config/cluster-config/config/overlays/default
 - ../../../applications/base
 - ../../../projects/base
